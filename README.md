@@ -1,16 +1,18 @@
-# cuanflow_app
+# CuanFlow 💰
+*A Personal Finance Tracking App*
 
-A new Flutter project.
+## 📌 Overview
+CuanFlow is a simple mobile application that helps users track their **income and expenses**.  
+The app automatically calculates totals and provides **visualizations** of financial activity, making it easier to understand spending and saving patterns.
 
-## Getting Started
+## ⚙️ Features
+- Add and manage **income/expense transactions**
+- Automatic calculation of **totals and balances**
+- Simple **data visualization** (charts and summaries)
+- User-friendly **interface** for easy navigation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **IDE:** Android Studio  
+- **Storage:** Local storage (lightweight data handling)  
+- **UI:** XML layouts  
